@@ -1,0 +1,79 @@
+/* Website Styles */
+body {
+margin: 50px 0;
+font-family: Helvetica;
+color: black;
+font-size: 30px;
+/* background-image: url(images/bgllogo.jpg); */
+background-repeat: repeat;
+}
+header,
+section,
+footer {
+  padding:30px;
+}
+header {
+  color:red;
+  border-bottom: 5px solid grey;
+
+}
+
+.banner {
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    margin: 50px 0;
+  }
+  .img-1{
+    background-image: url(images/bglhockeyteam.jpg);
+    background-size: cover;
+    background-position: center;
+    border-bottom: 5px solid grey;
+    border-top: 5px solid grey;
+  }
+  .img-2{
+    background-image: url(images/bglteam.jpg);
+    background-size: cover;
+    background-position: top;
+    height: 700px;
+    border-bottom: 5px solid grey;
+    border-top: 5px solid grey;
+  }
+  .img-3{
+    background-image: url(images/hockey1.jpg);
+    background-size: cover;
+    background-position: top;
+    height:400px;
+    border-bottom: 5px solid grey;
+    border-top: 5px solid grey;
+  }
+h1, h2, h3, h4 {
+  font: red;
+  margin: 15px 0;
+  }
+p{
+  font: red;
+  margin: 10px 20px 30px 0px;
+  }
+*{
+  font-size: 100%;
+  margin: 0;
+  line-height: 1;
+  box-sizing: border-box;
+  }
+h1{
+   text-align: center;
+   font-size: 60px;
+   margin: 30px 0px;
+ }
+li{
+  margin: 20px;
+  font: black;
+  text-align: left;
+}
+footer{
+  margin:10px;
+  text-align: center;
+  color: DarkSlateGray;
+  font-size: 10px;
+}
