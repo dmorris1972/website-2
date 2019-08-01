@@ -77,3 +77,6 @@ footer{
   color: DarkSlateGray;
   font-size: 10px;
 }
+.float-image {
+  float: left;
+}
