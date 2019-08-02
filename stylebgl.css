@@ -91,3 +91,11 @@ footer{
   max-width: 1000px;
   margin: 0 auto;
 }
+a.button {
+  padding: 10px;
+  background:white;
+  color:black;
+}
+a.button:hover {
+  background: red;
+}
