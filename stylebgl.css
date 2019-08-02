@@ -47,8 +47,14 @@ header {
     border-top: 5px solid grey;
   }
 h1, h2, h3, h4 {
-  font: red;
+  font-family: 'Noto Serif SC', serif;
+  color: black;
   margin: 15px 0;
+  text-shadow:
+  -1px -1px 0 red,
+   1px -1px 0 red,
+   -1px 1px 0 red,
+    1px 1px 0 red;
   }
 p{
   font: red;
