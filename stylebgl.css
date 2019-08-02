@@ -1,4 +1,7 @@
 /* Website Styles */
+html {
+  scroll-behaviour: smooth;
+}
 body {
 margin: 50px 0;
 font-family: Helvetica;
