@@ -1,6 +1,5 @@
 /* Website Styles*/
 *{
-  /* border:1px solid red; */
   font-size: 100%;
   margin: 0;
   line-height: 1;
@@ -10,8 +9,6 @@ body {
   background-color: grey;
   font-family: 'Bitter', serif;
   color:#333333;
-  /* margin: 50px; */
-  /* margin: 10px 20 px 10 px; */
   background-image: url(images/steve.jfif);
 }
 
@@ -21,10 +18,8 @@ body {
  paddding: 30 px;
 }
 h1,h2,h3{
-  /* background:#ffb3d0; */
   color: #116466;
   font-size=36px;
-  /* marin-bottom: 20 px; */
 }
 h1{
   font-size: 36px;
@@ -32,9 +27,6 @@ h1{
   margin: 30px 0;
 }
 header{
-  /* text-align: left; */
-  /* background: #ffd5d9; */
-  /* margin: 30%; */
 border-bottom: 5px solid grey;
 }
 .banner{
@@ -52,14 +44,12 @@ header h1{
 }
 
 section{
-  /* background: #ffe2df; */
 border: 1px solid gainsboro;
 background-color: white;
 margin: 30px;
 padding: 30px;
 }
 footer{
-  /* background: #ffeeee; */
   color: Maroon;
 }
 
@@ -85,7 +75,6 @@ footer{
    color: grey;
  }
  img{
-   /* width: 400px; */
    height: 300px;
 }
  ul,ol{
