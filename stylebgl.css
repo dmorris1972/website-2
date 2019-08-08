@@ -102,3 +102,6 @@ a.button {
 a.button:hover {
   background: red;
 }
+p{
+  text-align: justify;
+}
